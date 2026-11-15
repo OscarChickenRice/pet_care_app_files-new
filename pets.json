@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "manWai",
+    "species": "Dog",
+    "breed": "Chihuahua",
+    "age": 3,
+    "gender": "Male",
+    "colour": "brown",
+    "remark": ""
+  },
+  {
+    "id": 2,
+    "name": "aldolf",
+    "species": "Dog",
+    "breed": "german shepherd",
+    "age": 3,
+    "gender": "Male",
+    "colour": "brown",
+    "remark": "love to play outside"
+  },
+  {
+    "id": 3,
+    "name": "billy",
+    "species": "Cat",
+    "breed": "siamese cat",
+    "age": 3,
+    "gender": "Male",
+    "colour": "black and white",
+    "remark": "love tuna"
+  },
+  {
+    "id": 4,
+    "name": "john",
+    "species": "Bird",
+    "breed": "parrot",
+    "age": 1,
+    "gender": "Male",
+    "colour": "red, green and blue",
+    "remark": "love to eat seeds"
+  },
+  {
+    "id": 5,
+    "name": "bruce",
+    "species": "Other",
+    "breed": "African Sideneck Turtle",
+    "age": 4,
+    "gender": "Male",
+    "colour": "Dark green",
+    "remark": "cute turtle"
+  },
+  {
+    "id": 6,
+    "name": "demo",
+    "species": "Dog",
+    "breed": "demo",
+    "age": 1,
+    "gender": "Male",
+    "colour": "demo",
+    "remark": "demo"
+  }
+]

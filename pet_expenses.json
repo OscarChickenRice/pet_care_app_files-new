@@ -1,0 +1,38 @@
+[
+  {
+    "pet_id": 1,
+    "category": "Food",
+    "amount": 10.0,
+    "date": "11-12-2025",
+    "note": "Meal: Dinner",
+    "source": "Feeding",
+    "edit_reason": ""
+  },
+  {
+    "pet_id": 5,
+    "category": "Grooming",
+    "amount": 20.0,
+    "date": "13-12-2025",
+    "note": "Task: Bathing",
+    "source": "Grooming",
+    "edit_reason": ""
+  },
+  {
+    "pet_id": 6,
+    "category": "Grooming",
+    "amount": 10.0,
+    "date": "19-12-2025",
+    "note": "",
+    "source": "Manual",
+    "edit_reason": ""
+  },
+  {
+    "pet_id": 6,
+    "category": "Food",
+    "amount": 20.0,
+    "date": "12-12-2025",
+    "note": "Meal: Breakfast",
+    "source": "Feeding",
+    "edit_reason": "wrong"
+  }
+]
